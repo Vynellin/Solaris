@@ -444,7 +444,6 @@
 // I beat thee with mine fist.
 
 /datum/outfit/job/roguetown/vet/bruiser/pre_equip(mob/living/carbon/human/H)
-    neck = /obj/item/clothing/neck/roguetown/hood
     armor = /obj/item/clothing/suit/roguetown/armor/leather/vest/white
     shirt = /obj/item/clothing/suit/roguetown/shirt/undershirt
     pants = /obj/item/clothing/under/roguetown/tights/black
